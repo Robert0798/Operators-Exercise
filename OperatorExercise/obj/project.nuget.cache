@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "nnFYDdiH4kkWhtXXiRxWcZT3y7bnWzdPwxtD7MzUrk5EXvaMdapeCGG9ruEJEYfujrcRI75ym2//Cbk54S3JJQ==",
+  "dgSpecHash": "pZXffYWxpLc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\OperatorExercise\\OperatorExercise\\OperatorExercise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/robertanderson/Desktop/repos/Operators-Exercise/OperatorExercise/OperatorExercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/robertanderson/.nuget/packages/microsoft.netcore.app.ref/6.0.33/microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "/Users/robertanderson/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.33/microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "/Users/robertanderson/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.33/microsoft.netcore.app.host.osx-x64.6.0.33.nupkg.sha512"
+  ],
   "logs": []
 }
